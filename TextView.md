@@ -34,6 +34,3 @@ Para baixar uma fonte podemos usar o site dafont.com, após baixar o arquivo de 
 
 Criar um diretório font dentro do res, copiar e colar o arquivo de fonte que foi baixado e usar o atributo fontFamily dentro do nosso textView
 
-### Build
-
-É importante usar do build caso esteja com problemas no projeto
